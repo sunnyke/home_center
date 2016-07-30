@@ -2,8 +2,8 @@
 .DS_Store
 
 # Xcode
-xcuserdata
+*.xcuserdata
 
 # node.js
-node_modules
+node_modules/
 npm-debug.log
