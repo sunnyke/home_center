@@ -1,1 +1,9 @@
+# OSX
+.DS_Store
 
+# Xcode
+xcuserdata
+
+# node.js
+node_modules
+npm-debug.log
